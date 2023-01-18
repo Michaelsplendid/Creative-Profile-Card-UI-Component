@@ -23,6 +23,7 @@ body {
   transition: all 1s;
   z-index: 1;
   overflow: hidden;
+  color: Orange-red;
 }
 
 .info h2,
