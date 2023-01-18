@@ -25,10 +25,6 @@ body {
   overflow: hidden;
 }
 
-h2 {
-  color: Green;
-}
-
 .info h2,
 .info p {
   color: #fff;
