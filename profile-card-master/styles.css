@@ -27,7 +27,7 @@ body {
 
 .info h2,
 .info p {
-  color: #fff;
+  color: green;
   opacity: 0;
   transition: all 0.6s;
 }
